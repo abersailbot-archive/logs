@@ -1,0 +1,3382 @@
+1366816830.87:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'float'
+
+1366817185.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'float'
+
+1366817366.69:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366817486.65:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366817545.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366817606.65:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366817783.54:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 40, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366817844.64:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 40, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366817907.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366817909.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366817966.75:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818023.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818025.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818086.75:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818143.61:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818206.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+AttributeError: 'NoneType' object has no attribute 'lat'
+
+1366818265.55:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818326.53:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818385.43:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818446.45:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818503.34:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818505.43:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818566.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818623.61:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+AttributeError: 'NoneType' object has no attribute 'lat'
+
+1366818686.92:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366818689.01:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818745.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818804.83:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818865.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818926.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366818985.81:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819044.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819108.0:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 40, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366819110.09:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819164.79:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 40, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'float'
+
+1366819166.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819223.74:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'float'
+
+1366819225.81:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819284.8:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 40, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1366819286.89:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819345.86:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819406.99:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819465.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819524.8:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819585.75:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819646.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819705.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819766.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819825.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819886.55:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366819945.47:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366820004.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 41, in position
+    long = self._parse_degrees(fields.long)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 73, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for +: 'NoneType' and 'float'
+
+1366820063.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1366820130.75:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 23, in log
+    pos = self._gps.position()
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 53, in position
+    raise ValueError('Checksum failed')
+ValueError: Checksum failed
+
+1369407420.89:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407422.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407423.81:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407424.91:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407426.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407427.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407429.3:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407430.73:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407432.16:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407433.61:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407435.06:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407436.48:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407437.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407439.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407440.83:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407442.27:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407443.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407445.17:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407446.61:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407448.07:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407449.54:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407450.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407452.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407454.04:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407455.49:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407456.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407458.38:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407459.83:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407461.26:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407462.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407464.12:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407465.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407467.01:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407468.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407469.87:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407471.31:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407472.77:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407474.21:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407475.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407477.12:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407478.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407480.0:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407481.49:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407482.97:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407484.41:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407485.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407487.31:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407488.78:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407490.23:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407491.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407493.14:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407494.61:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407496.04:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407497.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407498.91:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407500.33:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407501.76:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407503.21:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407504.66:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407506.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407507.53:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407508.95:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407510.4:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407511.86:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407513.3:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407514.76:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407516.19:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407517.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407519.13:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407520.58:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407522.04:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407523.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407524.94:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407526.4:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407527.87:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407529.34:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407530.79:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407532.22:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407533.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407535.11:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407536.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407538.0:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407539.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407540.86:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407542.29:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407543.75:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407545.2:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407546.67:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407548.12:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407549.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407551.07:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407552.51:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407553.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407555.44:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407556.89:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407558.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407559.82:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407561.28:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407562.72:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407564.18:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407565.63:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407567.1:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407568.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407570.04:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407571.48:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407572.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407574.41:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407575.87:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407577.31:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407578.74:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407580.19:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407581.64:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407583.11:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407584.58:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407586.05:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407587.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407588.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407590.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407591.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407593.34:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407594.79:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407596.27:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407597.72:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407599.18:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407600.64:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407602.1:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407603.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407605.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407606.52:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407607.97:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407609.4:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407610.86:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407612.29:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407613.72:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407615.15:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407616.58:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407618.0:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407619.47:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407620.92:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407622.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407623.81:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407625.26:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407626.7:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407628.13:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407629.56:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407631.0:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407632.48:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407633.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407635.38:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407636.82:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407638.23:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407639.69:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407641.18:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407642.65:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407644.09:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407645.58:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407647.04:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407648.48:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407649.91:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407651.36:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407652.79:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407654.22:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407655.67:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407657.1:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407658.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407660.02:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407661.48:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407662.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407664.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407665.81:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407667.26:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407668.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407670.15:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407671.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407673.01:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407674.43:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407675.89:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407677.33:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407678.78:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407680.2:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407681.66:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407683.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407684.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407686.01:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407687.45:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407688.9:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407690.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407691.83:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407693.3:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407694.75:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407696.22:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407697.67:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407699.14:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407700.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407702.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407703.53:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407704.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407706.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407707.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407709.33:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407710.8:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407712.27:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407713.74:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407715.2:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407716.67:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407718.15:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407719.61:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407721.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407722.54:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407724.0:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407725.51:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407726.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407728.45:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407729.91:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407731.38:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407732.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407734.31:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407735.78:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407737.24:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407738.69:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407740.13:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407741.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407743.03:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407744.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407745.96:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407747.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407748.89:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407750.33:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407751.79:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407753.25:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407754.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407756.18:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407757.63:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407759.09:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407760.55:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407762.02:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407763.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407764.94:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407766.4:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407767.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407769.3:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407770.77:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407772.21:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407773.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407775.14:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407776.58:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407778.05:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407779.58:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407781.05:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407834.9:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407836.38:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407837.83:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407839.29:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407840.77:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407842.23:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407843.67:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407845.11:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407846.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407848.02:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407849.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407850.94:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407852.38:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407853.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407855.31:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407856.77:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407858.21:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407859.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407860.69:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407861.7:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407862.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407863.73:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407864.73:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407865.84:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407866.85:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407867.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407868.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407869.91:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407870.92:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407871.92:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407873.03:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407874.14:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407875.14:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407876.13:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407877.23:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407878.37:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407879.38:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407880.39:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407881.39:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407882.39:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407883.4:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407884.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407885.45:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407886.55:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407887.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407888.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407889.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407890.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407891.73:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407892.74:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407893.78:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407894.78:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407895.78:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407896.79:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407897.9:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407898.9:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407900.01:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407901.02:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407902.02:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407903.03:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407904.04:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407905.04:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407906.02:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407907.15:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407908.18:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407909.21:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407910.2:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407911.31:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407912.4:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407913.53:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407914.53:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407915.63:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407916.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407917.79:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407918.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407919.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407920.99:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407922.1:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407923.21:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407924.29:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407925.31:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407926.39:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407927.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407928.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407929.6:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369407930.7:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408167.59:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408169.07:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408170.53:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408172.0:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408173.51:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408174.94:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408176.39:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408177.83:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408179.29:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408180.77:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408182.24:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408183.68:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408185.11:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408186.58:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408188.03:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408189.51:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408190.97:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408192.44:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408193.9:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408195.34:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408196.81:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408198.27:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408199.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408201.19:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408202.64:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408204.11:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408205.2:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408206.64:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408208.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408209.52:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408210.97:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408212.43:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408213.87:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408215.33:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408216.8:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408218.25:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408219.71:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408221.17:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408222.61:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408224.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408225.52:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408226.99:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408228.51:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369408229.98:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 38, in log
+    wind = self.arduino.get_wind_average(),
+AttributeError: 'Arduino' object has no attribute 'get_wind_average'
+
+1369412783.66:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 41, in log
+    wind = self.get_wind_average(),
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 72, in get_wind_average
+    return int(atan2(self.s, self.c))
+ValueError: cannot convert float NaN to integer
+
+1369592699.67:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369592804.65:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369592868.74:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369592887.13:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369613411.63:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613413.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613417.06:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613419.35:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613421.64:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613423.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613426.23:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613428.56:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613430.85:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613433.14:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613435.44:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613437.73:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613440.03:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613442.33:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613449.33:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613451.63:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613453.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613511.63:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613513.93:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613516.22:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613560.28:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613562.57:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613564.86:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613567.15:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369613569.44:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 49, in log
+    pos = self.gps.position,
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 78, in position
+    lat = self._parse_degrees(fields.lat)
+  File "/home/pi/git/sailbot2013/sailbot/gps.py", line 116, in _parse_degrees
+    return (degrees + minutes / 60)
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'int'
+
+1369754655.42:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369754659.17:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369754957.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369754966.63:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369755407.2:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369755408.29:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369755856.27:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369755857.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369755915.43:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369755916.83:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 47, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369756113.47:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369756126.12:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369756306.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369756306.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369756474.51:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369756478.3:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369758995.08:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369759257.23:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369759521.29:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369759537.66:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 40, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 36, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 28, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369767285.22:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 52, in log
+    wind = self.get_wind_average(),
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 89, in get_wind_average
+    self.c += (cos(math.radians(self.get_wind_bearing())) - self.c) / self.r
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 84, in get_wind_bearing
+    bearing = Bearing(self.arduino.get_compass())
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1369767285.91:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 51, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1370000838.01:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 56, in log
+    wind = self.get_wind_average(),
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 93, in get_wind_average
+    self.c += (cos(math.radians(self.get_wind_bearing())) - self.c) / self.r
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 88, in get_wind_bearing
+    bearing = Bearing(self.arduino.get_compass())
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1370000839.8:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 55, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1370001251.39:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 55, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1370001252.88:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 55, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1370001324.5:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 55, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
+1370001327.16:
+Traceback (most recent call last):
+  File "/home/pi/git/sailbot2013/sailbot/boat.py", line 55, in log
+    head = self.arduino.get_compass(),
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 38, in get_compass
+    return int(self.__sendCommand('c'))
+  File "/home/pi/git/sailbot2013/sailbot/arduino.py", line 30, in __sendCommand
+    return self.port.readline()
+  File "/usr/lib/python2.7/dist-packages/serial/serialposix.py", line 442, in read
+    ready,_,_ = select.select([self.fd],[],[], self._timeout)
+KeyboardInterrupt
+
